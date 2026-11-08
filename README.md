@@ -4,7 +4,7 @@
 
 **RDR2 Multihack — ESP, God Mode, Teleport, Spawner, and 40+ more**
 
-[![Game](https://img.shields.io/badge/Red%20Dead%20Redemption%202-1.0.1491%2B-B22222?style=flat-square)](https://www.rockstargames.com/reddeadredemption2)
+[![Game](https://img.shields.io/badge/Red%20Dead%20Redemption%202-1.0.1491.50%2B-B22222?style=flat-square)](https://www.rockstargames.com/reddeadredemption2)
 [![Mode](https://img.shields.io/badge/mode-Story%20%2B%20Red%20Dead%20Online-2b2b2b?style=flat-square)](#online-notes)
 [![Features](https://img.shields.io/badge/features-40%2B-00b894?style=flat-square)](#features)
 [![Menu](https://img.shields.io/badge/menu-in--game%20overlay-8e44ad?style=flat-square)](#menu)
